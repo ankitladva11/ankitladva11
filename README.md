@@ -14,9 +14,9 @@ I'm Ankit Ladva!
 
 <h2>💻 I'm Currently working on</h2>
 
-- Data Science & Machine learning (on supervised & unsupervised models)
+- Data Science & Machine learning (building supervised & unsupervised models)
 
-- Data Structure and algorithm (450 Questions)
+- Data Structure and algorithm (Love babbar's450 Questions)
 
 __Check out my GitHub repository:__
 
