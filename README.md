@@ -42,9 +42,9 @@ __Check out my GitHub repository:__
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitladva11" alt="GitHub Stats" /> <br/><br/>
-  <!-- <b><em>Programming activity (Last 7 days):</em></b> <br/>
+  <b><em>Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitladva11" alt="WakaTime" />
-  </p> -->
+  </p>
 </div>
 
 <h2> About Ankit⚡:</h2>
