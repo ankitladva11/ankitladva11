@@ -6,7 +6,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ankitladva11.ankitladva11)](https://github.com/ankitladva11) [![GitHub followers](https://img.shields.io/github/followers/ankitladva11.svg?style=social&label=Follow)](https://github.com/ankitladva11?tab=followers)
 
-I'm Ankit Ladva! 
+<h2>I'm Ankit Ladva! </h2>
 
 <i>Currently:</i>
 - CSE-Data Science Student at Dwarkadas J. Sanghvi College of Engineering. 
@@ -16,7 +16,7 @@ I'm Ankit Ladva!
 
 - Data Science & Machine learning (building supervised & unsupervised models)
 
-- Data Structure and algorithm (Love babbar's450 Questions)
+- Data Structure and algorithm (Love babbar's 450 Questions)
 
 __Check out my GitHub repository:__
 
