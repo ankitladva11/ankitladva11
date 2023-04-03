@@ -8,7 +8,7 @@
 
 <h1>I'm Ankit Ladva! </h1>
 
-<i>Currently:</i>
+<h2><i>Currently:</i></h2>
 - <h3>CSE-Data Science Student (Pre-Final) at Dwarkadas J. Sanghvi College of Engineering.</h3> 
 - <h3>Data Science Intern at Omniflo.</h3>
 
@@ -58,7 +58,7 @@ __Check out my GitHub repository:__
 - Know more about me: [About Laxmena](https://laxmena.com/pages/about)
 - Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com) -->
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-ladva-6ba429177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-ladva11" height="30" width="40" /></a>
 <a href="https://kaggle.com/ankitladva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankitladva" height="30" width="40" /></a>
