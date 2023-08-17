@@ -9,7 +9,7 @@
 <h1>I'm Ankit Ladva! </h1>
 
 <h2><i>Currently:</i></h2>
-<h3> - CSE-Data Science Student (Pre-Final year) at Dwarkadas J. Sanghvi College of Engineering.</h3> 
+<h3> - CSE-Data Science Student (-Final year) at Dwarkadas J. Sanghvi College of Engineering.</h3> 
 <h3> - Data Science Intern at Omniflo.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +19,7 @@
 
 - <h3>Building Data Science & Machine learning Solution For the industry Growth</h3>
 
-- <h3>Data Structure and Algorithm (Love babbar's 450 Questions)</h3>
+- <h3>Exploring GEN AI to solve Business Problems</h3>
 <!-- 
 __Check out my GitHub repository:__
 
