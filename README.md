@@ -9,7 +9,7 @@
 <h1>I'm Ankit Ladva! </h1>
 
 <h2><i>Currently:</i></h2>
-<h3> - CSE-Data Science Student (-Final year) at Dwarkadas J. Sanghvi College of Engineering.</h3> 
+<h3> - CSE-Data Science Student (Final year) at Dwarkadas J. Sanghvi College of Engineering.</h3> 
 <h3> - Data Science Intern at Omniflo.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,7 +52,7 @@ __Check out my GitHub repository:__
 
 <h2> About Ankit⚡:</h2>
 
-<h3>I'm a Pre-Final year Student living in Mumbai,India. Outside Tech, I love to read, enjoy music and explore nature outdoors.</h3>
+<h3>I'm a Final year Student living in Mumbai,India. Outside Tech, I love to read, enjoy music and explore nature outdoors.</h3>
 <!--  
 - Check out my Blog: [https://laxmena.com](https://laxmena.com)
 - Know more about me: [About Laxmena](https://laxmena.com/pages/about)
